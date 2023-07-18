@@ -1,6 +1,6 @@
 # Django-Iris-Web-Application
 
-Django Iris Web Application - As part of a personal project, I designed and developed a dynamic web application using the Django web framework. The application centered around the well-known Iris dataset, a dataset containing information about different species of iris flowers and their measurements.
+Django Iris Web Application - As part of my training, I designed and developed a dynamic web application using the Django web framework. The application centered around the well-known Iris dataset, a dataset containing information about different species of iris flowers and their measurements.
 
 In the application, I focused on creating an engaging user experience by incorporating interactive data visualizations. Users could explore various graphs and charts representing the characteristics of different iris species, aiding them in understanding the dataset better.
 
